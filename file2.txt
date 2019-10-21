@@ -1,2 +1,4 @@
 hello
 second file second line
+Adding third line
+Adding fourth line
